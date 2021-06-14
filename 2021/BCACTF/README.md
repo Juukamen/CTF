@@ -1,5 +1,6 @@
 BCA CTF https://play.bcactf.com/
-https://ctftime.org/event/1369 
+
+CFTTime -> https://ctftime.org/event/1369 
 
 	25 points - > Example Problem 
 	25 points - > Obligatory Discord Problem

@@ -1,1 +1,1 @@
-My Capture The Flag Record and some notes. 
+Min oversikt over Capture The Flag konkuransser som skjer oftest om helgene.
